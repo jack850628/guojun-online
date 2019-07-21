@@ -2,4 +2,4 @@ function sayyo(){
 	alert("yo");
 }
 
-export {sayyo};
+export default {sayyo};
